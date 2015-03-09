@@ -1,0 +1,13 @@
+{
+    "name": "pdavila/composer-prova",
+    "authors": [
+        {
+            "name": "Paolo Davila",
+            "email": "pdavila@iesebre.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "~3.3",
+        "illuminate/filesystem": "~5.0"
+    }
+}
