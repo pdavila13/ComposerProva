@@ -9,5 +9,8 @@
     "require": {
         "twbs/bootstrap": "~3.3",
         "illuminate/filesystem": "~5.0"
-    }
+    },
+  "autoload":{
+    "psr-4": {"com\\iesebre\\dam2\\pa201415\\paolo": "src/"}
+  }
 }
